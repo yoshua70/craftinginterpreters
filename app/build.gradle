@@ -33,7 +33,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'lox.App'
+    mainClass = 'com.craftinginterpreters.lox.App'
 }
 
 tasks.named('test') {
